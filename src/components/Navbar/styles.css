@@ -1,0 +1,26 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(241, 244, 247);
+    padding: 8px 16px;
+    box-shadow: 0 2px 3px -1px rgba(0, 0, 0, 0.1);
+  }
+  
+  .logotxt-Up{
+    color: #FFAC1C;
+  }
+  
+  .home-icon, .cart-icon{
+    width: 30px;
+    height: 30px;
+  }
+  
+  .cart-icon{
+    margin-left: 30px;
+  }
+  
+  .icons-wrapper{
+    padding-right: 20px;
+    padding-top: 5px;
+  }
+  

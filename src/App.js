@@ -1,7 +1,11 @@
+import Navbar from "./components/Navbar/Navbar";
+import ProductsPage from "./pages/ProductsPage";
+
 const App = () => {
   return (
     <div className="app">
-      <h1>App</h1>
+      <Navbar />
+      <ProductsPage />
     </div>
   );
 }
